@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-27T11:23:41.017Z</updated>
+  <updated>2018-08-27T11:25:05.676Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/08/27/%E5%8A%AA%E5%8A%9B%E5%90%91%E4%B8%8A/"/>
     <id>http://yoursite.com/2018/08/27/努力向上/</id>
     <published>2018-08-27T09:16:02.000Z</published>
-    <updated>2018-08-27T11:23:41.017Z</updated>
+    <updated>2018-08-27T11:25:05.676Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="簡報模式"><a href="#簡報模式" class="headerlink" title="簡報模式"></a><a href="/slide-example">簡報模式</a></h2><p>您可以使用一些語法將您的筆記分成投影片<br>然後用 <strong>簡報模式</strong> <i class="fa fa-tv"></i> 來展示，詳細請至上連結</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="簡報模式"><a href="#簡報模式" class="headerlink" title="簡報模式"></a><a href="/slide-example">簡報模式</a></h2><p>您可以使用一些語法將您的筆記分成投影片<br>然後用 <strong>簡報模式</strong> <i class="fa fa-tv"></i> 來展示，詳細請至上連結</p><h3 id="循序圖"><a href="#循序圖" class="headerlink" title="循序圖"></a>循序圖</h3><p>您可以像是以下使用循序圖：</p><p><code>`</code>sequence<br>艾莉絲-&gt;包柏: 哈摟，你好嗎？<br>Note right of 包柏: 包柏思考中<br>包柏–&gt;艾莉絲: 我很好，謝謝！<br>Note left of 艾莉絲: 艾莉絲回應<br>艾莉絲-&gt;包柏: 最近過得怎樣？</p>]]></content>
     
     <summary type="html">
     
