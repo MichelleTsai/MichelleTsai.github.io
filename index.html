@@ -347,13 +347,23 @@
 <div id="sequence-0"></div>
 
 
-<h3 id="流程圖"><a href="#流程圖" class="headerlink" title="流程圖"></a>流程圖</h3><p>您可以像是以下使用流程圖：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">st=&gt;start: 開始</span><br><span class="line">e=&gt;end: 結束</span><br><span class="line">op=&gt;operation: 我的操作</span><br><span class="line">op2=&gt;operation: 啦啦啦</span><br><span class="line">cond=&gt;condition: 是或否？</span><br><span class="line"></span><br><span class="line">st-&gt;op-&gt;op2-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op2</span><br></pre></td></tr></table></figure></p>
+<h3 id="流程圖"><a href="#流程圖" class="headerlink" title="流程圖"></a>流程圖</h3><p>您可以像是以下使用流程圖：</p>
+<div id="flowchart-0" class="flow-chart"></div>
+
 <h3 id="Abc"><a href="#Abc" class="headerlink" title="Abc"></a>Abc</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">X:1</span><br><span class="line">T:Speed the Plough</span><br><span class="line">M:4/4</span><br><span class="line">C:Trad.</span><br><span class="line">K:G</span><br><span class="line">|:GABc dedB|dedB dedB|c2ec B2dB|c2A2 A2BA|</span><br><span class="line">GABc dedB|dedB dedB|c2ec B2dB|A2F2 G4:|</span><br><span class="line">|:g2gf gdBd|g2f2 e2d2|c2ec B2dB|c2A2 A2df|</span><br><span class="line">g2gf g2Bd|g2f2 e2d2|c2ec B2dB|A2F2 G4:|</span><br></pre></td></tr></table></figure>
-<p><script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.27/webfontloader.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js"></script><textarea id="sequence-0-code" style="display: none">艾莉絲->包柏: 哈摟，你好嗎？
+<p><script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.6.5/flowchart.min.js"></script><textarea id="flowchart-0-code" style="display: none">st=>start: 開始
+e=>end: 結束
+op=>operation: 我的操作
+op2=>operation: 啦啦啦
+cond=>condition: 是或否？
+
+st->op->op2->cond
+cond(yes)->e
+cond(no)->op2</textarea><textarea id="flowchart-0-options" style="display: none">{"theme":"simple","scale":1,"line-width":2,"line-length":50,"text-margin":10,"font-size":12}</textarea><script>  var code = document.getElementById("flowchart-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("flowchart-0-options").value));  var diagram = flowchart.parse(code);  diagram.drawSVG("flowchart-0", options);</script><script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.27/webfontloader.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js"></script><textarea id="sequence-0-code" style="display: none">艾莉絲->包柏: 哈摟，你好嗎？
 Note right of 包柏: 包柏思考中
 包柏-->艾莉絲: 我很好，謝謝！
 Note left of 艾莉絲: 艾莉絲回應
-艾莉絲->包柏: 最近過得怎樣？</textarea><textarea id="sequence-0-options" style="display: none">{"theme":"simple"}</textarea><script>  var code = document.getElementById("sequence-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("sequence-0-options").value));  var diagram = Diagram.parse(code);  diagram.drawSVG("sequence-0", options);</script></p>
+艾莉絲->包柏: 最近過得怎樣？</textarea><textarea id="sequence-0-options" style="display: none">{"theme":"simple","scale":1,"line-width":2,"line-length":50,"text-margin":10,"font-size":12}</textarea><script>  var code = document.getElementById("sequence-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("sequence-0-options").value));  var diagram = Diagram.parse(code);  diagram.drawSVG("sequence-0", options);</script></p>
 
           
         
