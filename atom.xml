@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-27T11:27:11.411Z</updated>
+  <updated>2018-08-27T11:28:51.107Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://yoursite.com/2018/08/27/%E5%8A%AA%E5%8A%9B%E5%90%91%E4%B8%8A/"/>
     <id>http://yoursite.com/2018/08/27/努力向上/</id>
     <published>2018-08-27T09:16:02.000Z</published>
-    <updated>2018-08-27T11:27:11.411Z</updated>
+    <updated>2018-08-27T11:28:51.107Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="循序圖"><a href="#循序圖" class="headerlink" title="循序圖"></a>循序圖</h3><p>您可以像是以下使用循序圖：</p><p><code>`</code>sequence<br>艾莉絲-&gt;包柏: 哈摟，你好嗎？<br>Note right of 包柏: 包柏思考中<br>包柏–&gt;艾莉絲: 我很好，謝謝！<br>Note left of 艾莉絲: 艾莉絲回應<br>艾莉絲-&gt;包柏: 最近過得怎樣？</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="循序圖"><a href="#循序圖" class="headerlink" title="循序圖"></a>循序圖</h3><p>您可以像是以下使用循序圖：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">艾莉絲-&gt;包柏: 哈摟，你好嗎？</span><br><span class="line">Note right of 包柏: 包柏思考中</span><br><span class="line">包柏--&gt;艾莉絲: 我很好，謝謝！</span><br><span class="line">Note left of 艾莉絲: 艾莉絲回應</span><br><span class="line">艾莉絲-&gt;包柏: 最近過得怎樣？</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
         &lt;h3 id=&quot;循序圖&quot;&gt;&lt;a href=&quot;#循序圖&quot; class=&quot;headerlink&quot; title=&quot;循序圖&quot;&gt;&lt;/a&gt;循序圖&lt;/h3&gt;&lt;p&gt;您可以像是以下使用循序圖：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;`&lt;/code&gt;sequence&lt;br&gt;艾莉絲-&amp;gt;包柏: 哈摟，你好嗎？
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td c
       
     
     </summary>
