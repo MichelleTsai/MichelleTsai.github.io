@@ -2,72 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/08/27/hello-world/</loc>
+    
+    <lastmod>2018-08-27T07:58:50.478Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tages/index.html</loc>
+    
+    <lastmod>2018-08-27T07:57:49.442Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-08-27T07:57:00.625Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2018-08-27T07:44:38.206Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/aaa-4/</loc>
-    
-    <lastmod>2018-08-27T07:37:27.974Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/aaa-3/</loc>
-    
-    <lastmod>2018-08-27T07:34:56.451Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/aaa-2/</loc>
-    
-    <lastmod>2018-08-27T07:34:47.142Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/help-1/</loc>
-    
-    <lastmod>2018-08-27T07:31:32.586Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/help/</loc>
-    
-    <lastmod>2018-08-27T07:31:19.446Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/aaa-1/</loc>
-    
-    <lastmod>2018-08-27T07:06:46.260Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/aaa/</loc>
-    
-    <lastmod>2018-08-27T07:04:20.114Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/test/</loc>
-    
-    <lastmod>2018-08-27T06:17:48.954Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/08/27/hello-world/</loc>
-    
-    <lastmod>2018-08-27T03:25:12.640Z</lastmod>
     
   </url>
   
