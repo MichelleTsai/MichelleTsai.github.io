@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-27T09:47:52.658Z</updated>
+  <updated>2018-08-27T11:23:41.017Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2018/08/27/%E5%8A%AA%E5%8A%9B%E5%90%91%E4%B8%8A/"/>
     <id>http://yoursite.com/2018/08/27/努力向上/</id>
     <published>2018-08-27T09:16:02.000Z</published>
-    <updated>2018-08-27T09:47:52.658Z</updated>
+    <updated>2018-08-27T11:23:41.017Z</updated>
     
-    <content type="html"><![CDATA[<p>終於有勇氣建自己的部落格來分享技術了<br>大家多多指教啊～～～ 😇</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="簡報模式"><a href="#簡報模式" class="headerlink" title="簡報模式"></a><a href="/slide-example">簡報模式</a></h2><p>您可以使用一些語法將您的筆記分成投影片<br>然後用 <strong>簡報模式</strong> <i class="fa fa-tv"></i> 來展示，詳細請至上連結</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;終於有勇氣建自己的部落格來分享技術了&lt;br&gt;大家多多指教啊～～～ 😇&lt;/p&gt;
-
+        &lt;h2 id=&quot;簡報模式&quot;&gt;&lt;a href=&quot;#簡報模式&quot; class=&quot;headerlink&quot; title=&quot;簡報模式&quot;&gt;&lt;/a&gt;&lt;a href=&quot;/slide-example&quot;&gt;簡報模式&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;您可以使用一些語法將您的筆記分成投影片&lt;br&gt;然後用 &lt;stron
       
     
     </summary>
