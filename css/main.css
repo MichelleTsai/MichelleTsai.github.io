@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #28ff82;
+  background: #dad179;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2607,7 +2607,7 @@ hr {
   margin-top: 80px;
 }
 .header {
-  background: #f5f5f5;
+  background: #906990;
 }
 .header-inner {
   padding: 25px 0 20px;
@@ -2640,6 +2640,7 @@ hr {
 .site-meta .brand {
   padding: 2px 1px;
   background: none;
+  color: #dfd3df;
 }
 @media (max-width: 767px) {
   .site-meta .brand {
@@ -2903,4 +2904,37 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.use-motion .logo-line-before i {
+  background: #dfd3df;
+}
+.use-motion .logo-line-after i {
+  background: #dfd3df;
+}
+a {
+  color: #dfd3df;
+}
+.footer {
+  background: #906990;
+  color: #dfd3df;
+}
+.back-to-top {
+  background: #594059;
+}
+.sidebar-toggle {
+  background: #594059;
+}
+.posts-expand .post-meta {
+  color: #906990;
+}
+.sidebar {
+  background: #bfa6bf;
+  box-shadow: inset 0 2px 6px #dfd3df;
+}
+.site-author-name {
+  font-family: "微軟正黑體", "Microsoft JhengHei", "Segoe UI Semibold", "Segoe UI", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+  color: #906990;
+}
+.sidebar a {
+  color: #dfd3df;
 }
