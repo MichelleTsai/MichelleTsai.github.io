@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-31T06:18:41.818Z</updated>
+  <updated>2018-08-31T06:45:10.972Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Scalability Web Develop</title>
+    <link href="http://yoursite.com/2018/08/31/Scalability-Web-Develop/"/>
+    <id>http://yoursite.com/2018/08/31/Scalability-Web-Develop/</id>
+    <published>2018-08-31T06:44:47.000Z</published>
+    <updated>2018-08-31T06:45:10.972Z</updated>
+    
+    <content type="html"><![CDATA[<h1>CS75 Lecture 9 Scalability Harvard Web Development David Malan</h1><h3 id="youtube"><a class="header-anchor" href="#youtube"></a>YouTube</h3><div class="video-container"><iframe src="//www.youtube.com/embed/-W9F__D3oY4" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1&gt;CS75 Lecture 9 Scalability Harvard Web Development David Malan&lt;/h1&gt;
+&lt;h3 id=&quot;youtube&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#youtube&quot;&gt;&lt;/a&gt;YouTub
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
