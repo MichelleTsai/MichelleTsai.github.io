@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-31T06:45:10.972Z</updated>
+  <updated>2018-08-31T07:45:53.801Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,46 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Scalability Web Develop</title>
+    <title>CS75 Lecture 9 Scalability Harvard Web Development David Malan</title>
     <link href="http://yoursite.com/2018/08/31/Scalability-Web-Develop/"/>
     <id>http://yoursite.com/2018/08/31/Scalability-Web-Develop/</id>
     <published>2018-08-31T06:44:47.000Z</published>
-    <updated>2018-08-31T06:45:10.972Z</updated>
+    <updated>2018-08-31T07:45:53.801Z</updated>
     
-    <content type="html"><![CDATA[<h1>CS75 Lecture 9 Scalability Harvard Web Development David Malan</h1><h3 id="youtube"><a class="header-anchor" href="#youtube"></a>YouTube</h3><div class="video-container"><iframe src="//www.youtube.com/embed/-W9F__D3oY4" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    <content type="html"><![CDATA[<h1>CS75 Lecture 9 Scalability Harvard Web Development David Malan</h1><h3 id="youtube-影片"><a class="header-anchor" href="#youtube-影片"></a>YouTube 影片</h3><div class="video-container"><iframe src="//www.youtube.com/embed/-W9F__D3oY4" frameborder="0" allowfullscreen></iframe></div>]]></content>
     
     <summary type="html">
     
       
       
         &lt;h1&gt;CS75 Lecture 9 Scalability Harvard Web Development David Malan&lt;/h1&gt;
-&lt;h3 id=&quot;youtube&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#youtube&quot;&gt;&lt;/a&gt;YouTub
+&lt;h3 id=&quot;youtube-影片&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#youtube-影片&quot;&gt;&lt;/a&gt;
       
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2018/08/31/test-1/"/>
-    <id>http://yoursite.com/2018/08/31/test-1/</id>
-    <published>2018-08-31T06:18:20.000Z</published>
-    <updated>2018-08-31T06:18:41.818Z</updated>
-    
-    <content type="html"><![CDATA[<p>this is a test article</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;this is a test article&lt;/p&gt;
-
-      
-    
-    </summary>
-    
+      <category term="System Design" scheme="http://yoursite.com/tags/System-Design/"/>
     
   </entry>
   
