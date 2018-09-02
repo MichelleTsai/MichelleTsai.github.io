@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5d2fb5;
+  background: #7199ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2948,4 +2948,12 @@ a {
   margin: 0 auto;
   width: 800px;
   margin-top: 80px;
+}
+.site-author-image {
+  display: block;
+  margin: 0 auto;
+  padding: 2px;
+  max-width: 96px;
+  height: auto;
+  border: none;
 }
