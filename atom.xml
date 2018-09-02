@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-31T07:47:05.462Z</updated>
+  <updated>2018-09-02T06:09:02.297Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,51 +18,25 @@
   
   <entry>
     <title>CS75 Lecture 9 Scalability Harvard Web Development David Malan</title>
-    <link href="http://yoursite.com/2018/08/31/Scalability-Web-Develop/"/>
-    <id>http://yoursite.com/2018/08/31/Scalability-Web-Develop/</id>
+    <link href="http://yoursite.com/2018/08/31/Harvard_CS75_Scability_09_Notes/"/>
+    <id>http://yoursite.com/2018/08/31/Harvard_CS75_Scability_09_Notes/</id>
     <published>2018-08-31T06:44:47.000Z</published>
-    <updated>2018-08-31T07:47:05.462Z</updated>
+    <updated>2018-09-02T06:09:02.297Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="youtube-影片"><a class="header-anchor" href="#youtube-影片"></a>YouTube 影片</h3><div class="video-container"><iframe src="//www.youtube.com/embed/-W9F__D3oY4" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    <content type="html"><![CDATA[<h1>Harvard CS75 Notes</h1><p>這篇是來自於閱讀 <strong><a href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-TW.md" target="_blank" rel="noopener">system-design-primer</a></strong> 裡面提到的推薦影片，順便整理一些心得筆記</p><h4 id="cs75-summer-2012-lecture-9-scalability-harvard-web-development-david-malan"><a class="header-anchor" href="#cs75-summer-2012-lecture-9-scalability-harvard-web-development-david-malan"></a>CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan</h4><div class="video-container"><iframe src="//www.youtube.com/embed/-W9F__D3oY4" frameborder="0" allowfullscreen></iframe></div><h2 id="vps-v-s-shared-web-hosting"><a class="header-anchor" href="#vps-v-s-shared-web-hosting"></a>VPS v.s Shared Web Hosting</h2><p>簡單來說<br>VPS是一台獨立的實體伺服器一樣，可以在上面安裝OS或程式…等;<br>Shared Hosting是單純從一台實體CPU切出來，所以會跟其他人共用到RAM;</p><table><thead><tr><th style="text-align:left"></th><th style="text-align:center">價格</th><th style="text-align:center">服務類型</th><th style="text-align:center">穩定度</th><th style="text-align:center">IP</th><th style="text-align:center">操作自由度</th><th style="text-align:center">相關知識需求</th></tr></thead><tbody><tr><td style="text-align:left"><strong>虛擬主機<br>Web Hosting</strong></td><td style="text-align:center">一般用途較貴一些<br>但整體維護不見得</td><td style="text-align:center">單一用途</td><td style="text-align:center">高流量下很難有彈性</td><td style="text-align:center">共用</td><td style="text-align:center">低，但有圖形化介面<br>(例如cPanel)</td><td style="text-align:center">低，按圖文操作即可</td></tr><tr><td style="text-align:left"><strong>虛擬專用伺服器<br>VPS</strong></td><td style="text-align:center">可高可低<br>看系統調教程度</td><td style="text-align:center">可做相當複雜的運用</td><td style="text-align:center">看系統調教程度</td><td style="text-align:center">固定</td><td style="text-align:center">高，但網站圖形化介面須自行安裝</td><td style="text-align:center">高，最低需要了解基本Linux指令</td></tr></tbody></table><p><strong><em>Reference：<a href="https://progressbar.tw/posts/102" target="_blank" rel="noopener">[不是工程師] 架站用VPS還是Web Hosting，中文翻譯都有「虛擬」到底差在哪？</a></em></strong></p><h2 id="vertical-scaling"><a class="header-anchor" href="#vertical-scaling"></a>Vertical Scaling</h2><p><strong>關鍵字：CPU, Disk, RAM …</strong><br>更多的 RAM, processors, disks … 等，終究會耗盡金錢與資源</p><h2 id="horizontal-scaling-13-42"><a class="header-anchor" href="#horizontal-scaling-13-42"></a>Horizontal Scaling [13:42 ~ ]</h2><p>利用多台server, 構建拓撲</p><h2 id="load-balancing"><a class="header-anchor" href="#load-balancing"></a>Load Balancing</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;youtube-影片&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#youtube-影片&quot;&gt;&lt;/a&gt;YouTube 影片&lt;/h3&gt;
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.
+        &lt;h1&gt;Harvard CS75 Notes&lt;/h1&gt;
+&lt;p&gt;這篇是來自於閱讀 &lt;strong&gt;&lt;a href=&quot;https://github.com/donnemartin/system-design-primer/blob/master/README-zh-TW.md&quot; ta
       
     
     </summary>
     
     
       <category term="System Design" scheme="http://yoursite.com/tags/System-Design/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新的一天</title>
-    <link href="http://yoursite.com/2018/08/27/%E5%8A%AA%E5%8A%9B%E5%90%91%E4%B8%8A/"/>
-    <id>http://yoursite.com/2018/08/27/努力向上/</id>
-    <published>2018-08-27T09:16:02.000Z</published>
-    <updated>2018-08-27T11:45:44.267Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="循序圖"><a class="header-anchor" href="#循序圖"></a>循序圖</h3><p>您可以像是以下使用循序圖：</p><div id="sequence-0"></div><h3 id="流程圖"><a class="header-anchor" href="#流程圖"></a>流程圖</h3><p>您可以像是以下使用流程圖：</p><div id="flowchart-0" class="flow-chart"></div><h3 id="graphviz"><a class="header-anchor" href="#graphviz"></a>Graphviz</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">digraph hierarchy &#123;</span><br><span class="line"></span><br><span class="line">                nodesep=1.0 // increases the separation between nodes</span><br><span class="line"></span><br><span class="line">                node [color=Red,fontname=Courier,shape=box] //All nodes will this shape and colour</span><br><span class="line">                edge [color=Blue, style=dashed] //All the lines look like this</span><br><span class="line"></span><br><span class="line">                Headteacher-&gt;&#123;Deputy1 Deputy2 BusinessManager&#125;</span><br><span class="line">                Deputy1-&gt;&#123;Teacher1 Teacher2&#125;</span><br><span class="line">                BusinessManager-&gt;ITManager</span><br><span class="line">                &#123;rank=same;ITManager Teacher1 Teacher2&#125;  // Put them on the same level</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="mermaid"><a class="header-anchor" href="#mermaid"></a>Mermaid</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">gantt</span><br><span class="line">    title A Gantt Diagram</span><br><span class="line"></span><br><span class="line">    section Section</span><br><span class="line">    A task           :a1, 2014-01-01, 30d</span><br><span class="line">    Another task     :after a1  , 20d</span><br><span class="line">    section Another</span><br><span class="line">    Task in sec      :2014-01-12  , 12d</span><br><span class="line">    anther task      : 24d</span><br></pre></td></tr></table></figure><script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.27/webfontloader.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js"></script><textarea id="sequence-0-code" style="display: none">艾莉絲->包柏: 哈摟，你好嗎？Note right of 包柏: 包柏思考中包柏-->艾莉絲: 我很好，謝謝！Note left of 艾莉絲: 艾莉絲回應艾莉絲->包柏: 最近過得怎樣？</textarea><textarea id="sequence-0-options" style="display: none">{"scale":1,"line-width":2,"line-length":50,"text-margin":10,"font-size":12,"theme":"simple"}</textarea><script>  var code = document.getElementById("sequence-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("sequence-0-options").value));  var diagram = Diagram.parse(code);  diagram.drawSVG("sequence-0", options);</script><script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.6.5/flowchart.min.js"></script><textarea id="flowchart-0-code" style="display: none">st=>start: 開始e=>end: 結束op=>operation: 我的操作op2=>operation: 啦啦啦cond=>condition: 是或否？st->op->op2->condcond(yes)->econd(no)->op2</textarea><textarea id="flowchart-0-options" style="display: none">{"scale":1,"line-width":2,"line-length":50,"text-margin":10,"font-size":12,"theme":"simple"}</textarea><script>  var code = document.getElementById("flowchart-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("flowchart-0-options").value));  var diagram = flowchart.parse(code);  diagram.drawSVG("flowchart-0", options);</script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;循序圖&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#循序圖&quot;&gt;&lt;/a&gt;循序圖&lt;/h3&gt;
-&lt;p&gt;您可以像是以下使用循序圖：&lt;/p&gt;
-&lt;div id=&quot;sequence-0&quot;&gt;&lt;/div&gt;
-&lt;h3 id=&quot;流程圖&quot;&gt;&lt;a class=&quot;heade
-      
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   
